@@ -1,8 +1,16 @@
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <p align="center">
-  I'm an <strong>AI & Data Science Engineer 
-Pharos University in Alexandria</strong> and Computer Science student based in 📍 <strong>Alexandria, Egypt</strong>, focused on turning ML/NLP research into real, working products instead of just studying the theory.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,100:6272A4&height=220&section=header&text=Hey,%20I'm%20Youssef%20El%20Far&fontSize=38&fontColor=BD93F9&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=18&descColor=8BE9FD" width="100%" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&height=40&color=8BE9FD&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;LLMs+%7C+AI+Agents+%7C+LangChain;Building+Real-World+AI+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p>I'm currently an <strong>AI & Data Science Engineer</strong> and Computer Science & Artificial Intelligence student at <strong>Pharos University in Alexandria</strong>, based in 📍 Alexandria, Egypt.</p>
+
+<img align="right" width="380" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding gif" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/youssef-elfar/"><img src="https://img.shields.io/badge/-Youssef%20El%20Far-282A36?style=flat-square&labelColor=282A36&logo=LinkedIn&logoColor=8BE9FD" alt="LinkedIn Badge"></a>
@@ -11,26 +19,19 @@ Pharos University in Alexandria</strong> and Computer Science student based in �
   <a href="https://bsky.app/profile/youssef38.bsky.social"><img src="https://img.shields.io/badge/-@youssef38-282A36?style=flat-square&labelColor=282A36&logo=Bluesky&logoColor=50FA7B" alt="Bluesky Badge"></a>
 </p>
 
+##  A Few Quick Facts
+
+- 🔭 I'm currently working on **LLM-powered applications** using LangChain, OpenAI and Gemini.
+- 🧐 Learning about **LangGraph**, **MCP**, and **Advanced RAG**.
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/youssef-ali-elfar).
+- 💬 Ping me about **Machine Learning, NLP, Deep Learning, LangChain, and LLMs**.
+
 <p align="center">
   <img alt="profile views" src="https://komarev.com/ghpvc/?username=youssef-ali-elfar&color=BD93F9&style=flat-square&label=Profile+Views" />
   <a href="https://github.com/youssef-ali-elfar?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/youssef-ali-elfar?style=flat-square&color=282A36&labelColor=BD93F9&label=Follow" /></a>
 </p>
 
----
-
-##  A Few Quick Facts
-
-- 🎓 Computer Science & Artificial Intelligence student
-- 🔭 Currently building projects around **LLMs**, **NLP**, and **AI Agents**
-- 🌱 Learning **LangGraph**, **MCP**, **Advanced RAG**, and production-grade ML systems
-- 💬 Ask me about: Machine Learning, Deep Learning, NLP, LangChain, Computer Vision
-- ⚡ I'd rather ship a working AI prototype than just read another paper about one
-- 🤝 Open to collaboration on AI, Machine Learning, and Open Source projects
-
-<br/>
-<img align="right" width="260" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-
-##  Featured Projects
+## 📘 Featured Projects
 
 <details open>
 <summary><strong> Brain Tumor Detection — Wavelet Transform + SVM</strong></summary>
