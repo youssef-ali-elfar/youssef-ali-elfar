@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:06b6d4&text=Youssef%20El%20Far&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Machine%20Learning%20Engineer%20|%20AI%20Engineer%20|%20NLP%20Enthusiast&descAlignY=60"/>
+</p>
 
 # Hi 👋, I'm Youssef El Far
 
